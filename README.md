@@ -3,8 +3,6 @@
   <br>
   <code align=center>› Desenvolvedor há cerca de 4 anos e meio.</code>
   <br>
-  <code align=center>› Tenho 15 anos.</code>
-  <br>
   <code align=center>› Estudo para ser Programador de Software</code>
   <br>
   <code align=center>› Amo o Discord.</code>
