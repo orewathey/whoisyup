@@ -8,7 +8,7 @@
   <code align=center>› Amo o Discord.</code>
   <br>
   <br>
-  <a href="https://github.com/whoisyup" alt="yup"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb,ts&theme=dark&perline=4"></a>
+  <a href="https://github.com/whoisyup" alt="yup"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb,ts,lua,pug&theme=dark&perline=4"></a>
 <br>
   <details>
     <br>
