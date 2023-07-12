@@ -4,7 +4,7 @@
   <h3 align=center>Programo apenas por diversão :></code>
   <br>
   <br>
-  <a href="https://github.com/whoisyup" alt="yup"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb,ts,lua,pug,sequelize,prisma,vue,firebase,sass&theme=dark&perline=4"></a>
+  <a href="https://github.com/whoisyup" alt="yup"><img src="https://skillicons.dev/icons?i=react,nextjs,git,nodejs,js,html,css,md,mongodb,ts,lua,pug,sequelize,prisma,vue,firebase,sass&theme=dark&perline=4"></a>
 <br>
   <details>
     <br>
