@@ -1,10 +1,6 @@
 <div align="center">
   <h1 align="center"><b>whoisyup</b></h1>
   <br>
-  <code align=center>› Desenvolvedor há cerca de 4 anos e meio.</code>
-  <br>
-  <code align=center>› Estudo para ser Programador de Software</code>
-  <br>
   <h3 align=center>Programo por diversão :></code>
   <br>
   <br>
