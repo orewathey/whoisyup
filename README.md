@@ -5,7 +5,7 @@
   <br>
   <code align=center>› Estudo para ser Programador de Software</code>
   <br>
-  <h1 align=center>Programo por diversão :></code>
+  <h3 align=center>Programo por diversão :></code>
   <br>
   <br>
   <a href="https://github.com/whoisyup" alt="yup"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb,ts,lua,pug,docker,prisma,vue,firebase,sass&theme=dark&perline=4"></a>
